@@ -47,3 +47,23 @@ Every dashboard in this project exists to answer one (or more) of these question
   - Who emits the most, and who bears the burden?
 
   - Are current trends aligned with climate targets?
+
+
+
+## Energy composition in transition: Fossil fuels vs renewables
+
+Despite rapid growth in renewable energy consumption, global energy demand has increased at a pace that continues to sustain fossil fuel dominance.
+
+
+
+<img width="1508" height="720" alt="image" src="https://github.com/user-attachments/assets/2438f700-6f62-4703-b31f-8e422a801868" />
+
+
+
+
+
+
+
+
+
+
